@@ -1,0 +1,1 @@
+This program is designed as a one-off to read in data from http://game.thronemaster.net/?game=63100&show=log and print it to a text file.

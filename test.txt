@@ -1,0 +1,712 @@
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+DimitarMateev :  RAVEN  MOVE:  Lannister did not use the messenger raven. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon has sailed from Shipbreaker Bay
+- for Blackwater Bay with 2 Ships. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Stoney Sept
+- to Riverrun with 1 Footmen. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Winterfell
+- to Karhold with 1 Footmen.
+- to Moat Cailin with 1 Knights. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister has sailed from The Golden Sound
+- for Ironman's Bay with 1 Ships. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark has sailed from The Shivering Sea
+- for The Narrow Sea with 1 Ships. 
+ 
+Faceless Pate :  POWER  MOVE:  Baratheon resolved his special Consolidate Power Order token in Dragonstone and mustered new units:
+- 2 Ships | 
+ 
+DimitarMateev :  POWER  MOVE:  Lannister resolved his special Consolidate Power Order token in Lannisport and mustered new units:
+- 1 Footmen | 1 Ships | 
+ 
+Lork Stark :  POWER  MOVE:  Stark resolved his special Consolidate Power Order token in White Harbor and mustered new units:
+- 1 Ships | 
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Baratheon(+2)  
+ 
+Faceless Pate :  WESTEROS  MOVE:  'A Throne of Blades (W)' - The holder of the Iron Throne chose the following event: 'Supply' 
+ 
+ :  WESTEROS  MOVE:  Baratheon got new supplies (2). 
+ 
+ :  WESTEROS  MOVE:  Lannister got new supplies (3). 
+ 
+ :  WESTEROS  MOVE:  Stark got new supplies (1). 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [0] for the Iron Throne track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [2] for the Iron Throne track. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister exerted a power of [0] for the Iron Throne track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon resolved tied bids. New order of the Iron Throne track:
+- [1] Baratheon | [2] Lannister | [3] Stark |  
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister exerted a power of [1] for the Fiefdoms track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [2] for the Fiefdoms track. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [3] for the Fiefdoms track. 
+ 
+ :  WESTEROS  MOVE:  New order of the Fiefdoms track:
+- [2] Baratheon | [3] Lannister | [1] Stark |  
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [0] for the King's Court track. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister exerted a power of [1] for the King's Court track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [2] for the King's Court track. 
+ 
+ :  WESTEROS  MOVE:  New order of the King's Court track:
+- [1] Baratheon | [2] Lannister | [3] Stark |  
+ 
+Faceless Pate :  WESTEROS  MOVE:  Wildlings Attack: Baratheon deployed a power of [1] against the wildlings. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Wildlings Attack: Stark deployed a power of [2] against the wildlings. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Wildlings Attack: Lannister deployed a power of [2] against the wildlings. 
+ 
+ :  WESTEROS  MOVE:  The crowds of Wildlings have been blown away by the armies of Westeros!
+- no house cards have been returned. 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon did not use the messenger raven. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Dragonstone
+- to Crackclaw Point with 1 Knights.
+- to King's Landing with 1 Footmen and defeated the deployed neutral forces there. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Lannisport
+- to Flint's Finger with 1 Footmen.
+- to Seagard with 1 Knights.
+- to Searoad Marches with 1 Footmen. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister has sailed from The Golden Sound
+- for Sunset Sea with 1 Ships. 
+ 
+DimitarMateev :  POWER  MOVE:  Lannister resolved his special Consolidate Power Order token in Riverrun and mustered new units:
+- 1 Footmen | 1 Ships | 
+ 
+Lork Stark :  POWER  MOVE:  Stark resolved his special Consolidate Power Order token in White Harbor and mustered new units:
+- 1 Ships | 
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Baratheon(+2) - Stark(+3)  
+ 
+ :  WESTEROS  MOVE:  Baratheon got new supplies (2). 
+ 
+ :  WESTEROS  MOVE:  Lannister got new supplies (5). 
+ 
+ :  WESTEROS  MOVE:  Stark got new supplies (1). 
+ 
+ :  WESTEROS  MOVE:  Game of Thrones - Houses consolidated new powers:
+- Baratheon(+4) - Lannister(+3) - Stark(+2)  
+ 
+ :  WESTEROS  MOVE:  Sea of Storms (W) 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon did not use the messenger raven. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Kingswood
+- to The Reach with 1 Footmen. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister has sailed from Sunset Sea
+- for West Summer Sea with 1 Ships. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of White Harbor
+- to Moat Cailin with 1 Footmen. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon removed his March(+1) Order in Crackclaw Point. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Riverrun
+- to Harrenhal with 1 Footmen.
+- to Stoney Sept with 1 Footmen. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Moat Cailin. -> Battle!
+[Attack] 2015/11/28, 21:58: Stark is attacking Lannister in Seagard from Moat Cailin with 1 Footmen and 1 Knights 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (3) Robb Stark to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (2) The Hound to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Lannister lost the battle and was forced to withdraw to Lannisport. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Searoad Marches
+- to The Arbor with 1 Footmen. 
+ 
+Faceless Pate :  POWER  MOVE:  Baratheon resolved his special Consolidate Power Order token in King's Landing and mustered new units:
+- 1 Upgrades to a Knight | 1 Ships | 
+ 
+DimitarMateev :  POWER  MOVE:  Lannister resolved his special Consolidate Power Order token in Flint's Finger and mustered new units:
+- 1 Ships | 
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Stark(+2)  
+ 
+ :  WESTEROS  MOVE:  Baratheon got new supplies (2). 
+ 
+ :  WESTEROS  MOVE:  Lannister got new supplies (3). 
+ 
+ :  WESTEROS  MOVE:  Stark got new supplies (2). 
+ 
+ :  WESTEROS  MOVE:  Last Days of Summer (W) 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Wildlings Attack: Baratheon deployed a power of [1] against the wildlings. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Wildlings Attack: Lannister deployed a power of [2] against the wildlings. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Wildlings Attack: Stark deployed a power of [2] against the wildlings. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Wildlings Attack: Baratheon decided on tied bids:
+- Stark may return one of his house cards. 
+ 
+ :  WESTEROS  MOVE:  The crowds of Wildlings have been blown away by the armies of Westeros!
+- Stark returned following house card: (3) Robb Stark 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon replaced the Support Order in Crackclaw Point by a Consolidate Power Order. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of The Reach
+- to Blackwater with 1 Footmen. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Flint's Finger
+- to Lannisport with 1 Footmen. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Lannisport. -> Battle!
+[Attack] 2015/11/28, 22:02: Lannister is attacking Stark in Seagard from Lannisport with 1 Footmen and 1 Knights 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (4) Tywin Lannister to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (4) Eddard Stark to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark lost the battle and withdrew to Moat Cailin. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister has sailed from West Summer Sea
+- for Sunset Sea with 1 Ships. 
+ 
+Faceless Pate :  POWER  MOVE:  Baratheon resolved his special Consolidate Power Order token in King's Landing and mustered new units:
+- 1 Knights |  
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Baratheon(+1) - Lannister(+4) - Stark(+2)  
+ 
+Faceless Pate :  WESTEROS  MOVE:  'A Throne of Blades (W)' - The holder of the Iron Throne chose the following event: 'Mustering' 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon mustered new units:
+- 1 Footmen | 1 Knights |  
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister mustered new units:
+- 3 Footmen | 1 Upgrades to a Knight | 1 Siege Engines | 1 Ships | 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark mustered new units:
+- 2 Footmen | 1 Upgrades to a Knight | 1 Ships | 
+ 
+Faceless Pate :  WESTEROS  MOVE:  'Dark Wings, Dark Words (W)' - The holder of the Messenger Raven chose the following event: 'Game of Thrones' 
+ 
+ :  WESTEROS  MOVE:  Game of Thrones - Houses consolidated new powers:
+- Baratheon(+4) - Lannister(+5) - Stark(+2) 
+ 
+ :  WESTEROS  MOVE:  Web of Lies (W) 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon replaced the Consolidate Power Order in The Reach by a March Order. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from Sunset Sea. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from The Golden Sound. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from The Shivering Sea. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of King's Landing
+- to Blackwater with 1 Knights. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister has sailed from Ironman's Bay
+- for Sunset Sea with 2 Ships. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of White Harbor
+- to Moat Cailin with 1 Footmen. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Blackwater -> Battle!
+[Attack] 2015/11/28, 22:11: Baratheon is attacking Lannister in Stoney Sept from Blackwater with 1 Footmen and 1 Knights 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (1) Tyrion Lannister to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (2) Brienne of Tarth to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister decided not to use Tyrion's special ability. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Footmen |  
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Riverrun
+- to Flint's Finger with 1 Siege Engines. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Moat Cailin
+- to Castle Black with 1 Footmen. -> Battle!
+[Attack] 2015/11/28, 22:13: Stark is attacking Lannister in Seagard from Moat Cailin with 2 Knights 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (3) Robb Stark to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (0) Cersei Lannister to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Lannister lost the battle and was forced to withdraw to Riverrun. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of The Reach
+- to Searoad Marches with 1 Footmen. 
+ 
+Faceless Pate :  POWER  MOVE:  Baratheon resolved his special Consolidate Power Order token in Dragonstone and mustered new units:
+- 1 Ships | 
+ 
+DimitarMateev :  POWER  MOVE:  Lannister resolved his special Consolidate Power Order token in Lannisport and mustered new units:
+- 2 Upgrades to a Knight |  
+ 
+Lork Stark :  POWER  MOVE:  Stark resolved his special Consolidate Power Order token in Winterfell and mustered new units:
+- 2 Ships | 
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Lannister(+2) - Stark(+2)  
+ 
+ :  WESTEROS  MOVE:  Baratheon got new supplies (5). 
+ 
+ :  WESTEROS  MOVE:  Lannister got new supplies (3). 
+ 
+ :  WESTEROS  MOVE:  Stark got new supplies (2). 
+ 
+Faceless Pate :  WESTEROS  MOVE:  'Dark Wings, Dark Words (W)' - The holder of the Messenger Raven chose the following event: 'Game of Thrones' 
+ 
+ :  WESTEROS  MOVE:  Game of Thrones - Houses consolidated new powers:
+- Baratheon(+6) - Lannister(+3) - Stark(+4)  
+ 
+Faceless Pate :  WESTEROS  MOVE:  Wildlings Attack: Baratheon deployed a power of [3] against the wildlings. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Wildlings Attack: Stark deployed a power of [3] against the wildlings. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Wildlings Attack: Lannister deployed a power of [4] against the wildlings. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  The crowds of Wildlings have been blown away by the armies of Westeros!
+- Lannister returned following house card: (4) Tywin Lannister 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon did not use the messenger raven. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Dragonstone
+- to Crackclaw Point with 1 Knights. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Flint's Finger -> Battle!
+[Attack] 2015/11/28, 22:19: Lannister is attacking Stark in Seagard from Flint's Finger with 1 Siege Engines 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (1) Ser Kevan Lannister to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (1) The Blackfish to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark lost the battle and withdrew to Moat Cailin. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Winterfell
+- to The Mountains of the Moon with 1 Footmen. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Crackclaw Point -> Battle!
+[Attack] 2015/11/28, 22:22: Baratheon is attacking Lannister in Harrenhal from Crackclaw Point with 2 Knights 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (1) Melisandre to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (2) Ser Jaime Lannister to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister lost the battle and was not able to withdraw his units.
+- Following units were killed: 2 Footmen |  
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Lannisport
+- to Flint's Finger with 1 Knights. -> Battle!
+[Attack] 2015/11/28, 22:22: Lannister is attacking Baratheon in Stoney Sept from Lannisport with 1 Knights 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (3) Ser Gregor Clegane to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (3) Renly Baratheon to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Footmen | 1 Knights |  
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Baratheon(+4) - Lannister(+2) - Stark(+4)  
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon mustered new units:
+- 3 Footmen | 1 Knights | 1 Siege Engines | 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister mustered new units:
+- 2 Footmen | 1 Knights |  
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark mustered new units:
+- 1 Footmen | 1 Siege Engines | 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [0] for the Iron Throne track. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister exerted a power of [3] for the Iron Throne track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [4] for the Iron Throne track. 
+ 
+ :  WESTEROS  MOVE:  New order of the Iron Throne track:
+- [1] Baratheon | [2] Lannister | [3] Stark |  
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [1] for the Fiefdoms track. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister exerted a power of [10] for the Fiefdoms track. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [8] for the Fiefdoms track. 
+ 
+ :  WESTEROS  MOVE:  New order of the Fiefdoms track:
+- [3] Baratheon | [1] Lannister | [2] Stark |  
+ 
+ :  WESTEROS  MOVE:  Lannister exerted a power of [0] for the King's Court track. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [1] for the King's Court track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [7] for the King's Court track. 
+ 
+ :  WESTEROS  MOVE:  New order of the King's Court track:
+- [1] Baratheon | [3] Lannister | [2] Stark |  
+ 
+DimitarMateev :  WESTEROS  MOVE:  'Put To the Sword' - The holder of the Valyrian Steel Blade chose the following event: 'Rains of Autumn (W)' 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon replaced the Support Order in Searoad Marches by a Defense(+1) Order. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from The Golden Sound. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from Lannisport. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of The Reach
+- to Blackwater with 1 Footmen. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Stoney Sept. -> Battle!
+[Attack] 2015/11/28, 22:32: Lannister is attacking Baratheon in Harrenhal from Stoney Sept with 1 Knights 
+ 
+ :  BATTLE  MOVE:  Lannister chose (4) Tywin Lannister to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (0) Patchface to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon lost the battle and withdrew to Blackwater. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon resolved (0) Patchface's special ability.
+- Baratheon discarded the house card (3) Ser Gregor Clegane. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of White Harbor. -> Battle!
+[Attack] 2015/11/28, 22:33: Stark is attacking Baratheon in Crackclaw Point from White Harbor with 1 Footmen 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (2) Roose Bolton to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (2) Ser Davos Seaworth to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark lost the battle and withdrew to White Harbor. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister has sailed from Sunset Sea
+- for Ironman's Bay with 2 Ships. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Winterfell
+- to Widow's Watch with 1 Siege Engines. 
+ 
+Faceless Pate :  POWER  MOVE:  Baratheon resolved his special Consolidate Power Order token in Crackclaw Point and mustered new units:
+- 1 Upgrades to a Knight |  
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Baratheon(+3) - Lannister(+4) - Stark(+4)  
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon mustered new units:
+- 1 Footmen |  
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister mustered new units:
+- 1 Ships | 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark mustered new units:
+- 1 Upgrades to a Knight | 1 Siege Engines | 
+ 
+ :  WESTEROS  MOVE:  Game of Thrones - Houses consolidated new powers:
+- Baratheon(+5) - Lannister(+5) - Stark(+3)  
+ 
+ :  WESTEROS  MOVE:  Rains of Autumn (W) 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon replaced the Consolidate Power Order in Searoad Marches by a Defense(+1) Order. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from Sunset Sea. 
+ 
+Faceless Pate :  RAID  MOVE:  Baratheon removed his Raid Order in Shipbreaker Bay. 
+ 
+Lork Stark :  RAID  MOVE:  Stark removed his Raid Order in The Mountains of the Moon. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Blackwater
+- to Stoney Sept with 1 Footmen. -> Battle!
+[Attack] 2015/11/28, 22:42: Baratheon is attacking Lannister in Harrenhal from Blackwater with 2 Knights 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (4) Stannis Baratheon to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (1) Tyrion Lannister to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister used Tyrion's special ability to cancel his opponent's house card and returned it to his hand! 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon lost the battle and withdrew to Blackwater. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Lannisport. -> Battle!
+[Attack] 2015/11/28, 22:44: Lannister is attacking Baratheon in Stoney Sept from Lannisport with 1 Footmen 
+ 
+ :  BATTLE  MOVE:  Baratheon chose (4) Stannis Baratheon to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (2) Ser Jaime Lannister to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Footmen |  
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Widow's Watch
+- to The Eyrie with 1 Siege Engines and defeated the deployed neutral forces there. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Dragonstone
+- to Kingswood with 1 Siege Engines. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Seagard. -> Battle!
+[Attack] 2015/11/28, 22:46: Lannister is attacking Baratheon in Searoad Marches from Seagard with 1 Knights 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (1) Ser Kevan Lannister to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (2) Ser Davos Seaworth to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Knights |  
+ 
+Lork Stark :  MARCH  MOVE:  Stark removed his March(-1) Order in Winterfell. 
+ 
+Faceless Pate :  POWER  MOVE:  Baratheon resolved his Consolidate Power Order in King's Landing. New Power Tokens: +3 
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- Baratheon(+1) - Lannister(+3) - Stark(+4)  
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon mustered new units:
+- 1 Footmen | 1 Upgrades to a Siege Engine | 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister mustered new units:
+- 1 Footmen | 1 Knights |  
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark mustered new units:
+-  
+ 
+ :  WESTEROS  MOVE:  Game of Thrones - Houses consolidated new powers:
+- Baratheon(+3) - Lannister(+4) - Stark(+2)  
+ 
+DimitarMateev :  WESTEROS  MOVE:  'Put To the Sword' - The holder of the Valyrian Steel Blade chose the following event: 'Rains of Autumn (W)' 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon did not use the messenger raven. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from Sunset Sea. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from Harrenhal. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from Castle Black. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of The Reach
+- to Blackwater with 1 Siege Engines. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister removed his March(-1) Order in The Golden Sound. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark has sailed from Bay of Ice
+- for the Port of Winterfell with 1 Ships. 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Blackwater. -> Battle!
+[Attack] 2015/11/28, 22:56: Baratheon is attacking Lannister in Harrenhal from Blackwater with 1 Footmen, 1 Knights and 1 Siege Engines 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (2) Brienne of Tarth to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (0) Cersei Lannister to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Knights |  
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Seagard. -> Battle!
+[Attack] 2015/11/28, 22:57: Lannister is attacking Baratheon in Searoad Marches from Seagard with 1 Siege Engines 
+ 
+ :  BATTLE  MOVE:  Lannister chose (2) The Hound to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (0) Patchface to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon lost the battle and withdrew to The Reach. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon resolved (0) Patchface's special ability.
+- Baratheon discarded the house card (4) Tywin Lannister. 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of The Eyrie
+- to Moat Cailin with 1 Siege Engines. 
+ 
+Faceless Pate :  POWER  MOVE:  Baratheon resolved his Consolidate Power Order in Dragonstone. New Power Tokens: +0 
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- no house could consolidate any power. 
+ 
+ :  WESTEROS  MOVE:  'Winter is Coming' - New events came up. Now: 'Last Days of Summer (W)' 
+ 
+ :  WESTEROS  MOVE:  Last Days of Summer (W) 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister exerted a power of [0] for the Iron Throne track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [0] for the Iron Throne track. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [0] for the Iron Throne track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon resolved tied bids. New order of the Iron Throne track:
+- [3] Baratheon | [1] Lannister | [2] Stark |  
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [14] for the Fiefdoms track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [5] for the Fiefdoms track. 
+ 
+DimitarMateev :  WESTEROS  MOVE:  Lannister exerted a power of [18] for the Fiefdoms track. 
+ 
+ :  WESTEROS  MOVE:  New order of the Fiefdoms track:
+- [3] Baratheon | [1] Lannister | [2] Stark |  
+ 
+ :  WESTEROS  MOVE:  Lannister exerted a power of [0] for the King's Court track. 
+ 
+Faceless Pate :  WESTEROS  MOVE:  Baratheon exerted a power of [4] for the King's Court track. 
+ 
+Lork Stark :  WESTEROS  MOVE:  Stark exerted a power of [1] for the King's Court track. 
+ 
+ :  WESTEROS  MOVE:  New order of the King's Court track:
+- [1] Baratheon | [3] Lannister | [2] Stark |  
+ 
+ :  WESTEROS  MOVE:  Feast for Crows (W) 
+ 
+DimitarMateev :  PLANNING  MOVE:  Lannister set his orders. 
+ 
+Faceless Pate :  PLANNING  MOVE:  Baratheon set his orders. 
+ 
+Lork Stark :  PLANNING  MOVE:  Stark set his orders. 
+ 
+Faceless Pate :  RAVEN  MOVE:  Baratheon did not use the messenger raven. 
+ 
+ :  RAVEN  MOVE:  Unusable Raid Order has been removed from Stoney Sept. 
+ 
+Lork Stark :  RAID  MOVE:  Stark raided the Support Order in Crackclaw Point. 
+ 
+ :  RAID  MOVE:  Unusable Raid Order has been removed from Shipbreaker Bay. 
+ 
+ :  RAID  MOVE:  Unusable Raid Order has been removed from Bay of Ice. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Riverrun. -> Battle!
+[Attack] 2015/11/28, 23:05: Lannister is attacking Baratheon in Harrenhal from Riverrun with 2 Knights 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (1) Melisandre to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (1) Ser Kevan Lannister to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon lost the battle and withdrew to Crackclaw Point.
+- Following units were killed: 1 Siege Engines | 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Winterfell. -> Battle!
+[Attack] 2015/11/28, 23:08: Stark is attacking Lannister in Flint's Finger from Winterfell with 1 Siege Engines 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (2) Ser Jaime Lannister to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (4) Eddard Stark to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister decided to use the Valyrian Steel Blade! 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Siege Engines | 
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon removed his March Order in Kingswood. 
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Searoad Marches. -> Battle!
+[Attack] 2015/11/28, 23:12: Lannister is attacking Baratheon in The Reach from Searoad Marches with 1 Siege Engines 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (0) Cersei Lannister to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon chose (1) Salladhor Saan to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Siege Engines | 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Moat Cailin -> Battle!
+[Attack] 2015/11/28, 23:16: Stark is attacking Lannister in Seagard from Moat Cailin with 2 Knights and 1 Siege Engines 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (1) Tyrion Lannister to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (2) Greatjon Umber to lead his forces. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister decided not to use Tyrion's special ability. 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Knights |  
+ 
+Faceless Pate :  MARCH  MOVE:  Baratheon marched out of Blackwater. -> Battle!
+[Attack] 2015/11/28, 23:18: Baratheon is attacking Lannister in Harrenhal from Blackwater with 1 Knights 
+ 
+ :  BATTLE  MOVE:  Lannister chose (3) Ser Gregor Clegane to lead his forces. 
+ 
+ :  BATTLE  MOVE:  Baratheon chose (3) Renly Baratheon to lead his forces. 
+ 
+Faceless Pate :  BATTLE  MOVE:  Baratheon lost the battle and was not able to withdraw his units.
+- Following units were killed: 1 Knights |  
+ 
+DimitarMateev :  MARCH  MOVE:  Lannister marched out of Flint's Finger. -> Battle!
+[Attack] 2015/11/28, 23:19: Lannister is attacking Stark in Seagard from Flint's Finger with 1 Knights 
+ 
+DimitarMateev :  BATTLE  MOVE:  Lannister chose (4) Tywin Lannister to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark chose (2) Roose Bolton to lead his forces. 
+ 
+Lork Stark :  BATTLE  MOVE:  Stark lost the battle and withdrew to Greywater Watch.
+- Following units were killed: 1 Siege Engines | 
+ 
+Lork Stark :  MARCH  MOVE:  Stark marched out of Castle Black
+- to Flint's Finger with 1 Footmen. 
+ 
+ :  POWER  MOVE:  Houses consolidate new power:
+- no house could consolidate any power. 
+ 
+ :  GAME END  MOVE:  Lork Stark wins this game of thrones! 
+ 
