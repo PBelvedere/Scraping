@@ -1,20 +1,20 @@
 from lxml import html
 import requests
-from bs4 import BeautifulSoup
-import urllib2
+#from bs4 import BeautifulSoup
+import bs4
 test = open('test.txt', 'w')
 
 url = 'http://game.thronemaster.net/?game=63100&show=log'
 
-content = urllib2.urlopen(url).read()
 #Get the webpage
 page = requests.get('http://game.thronemaster.net/?game=63100&show=log')
-soup = BeautifulSoup(content, 'lxml')
+
+soup = bs4.BeautifulSoup(page.text, 'lxml')
 
 #Acquire the content for the entire page
 tree = html.fromstring(page.content)
 
-print 'scraping'
+print ('scraping')
 #create a list of players
 players = []
 
@@ -32,10 +32,23 @@ phase = []
 phase = tree.xpath('//th[@valign = "top"]/small/text()')
 
 
-print 'done scraping'
+print ('done scraping')
 
+w = "This is the left side of..."
+e = "a string with a right side."
 
+print (w + e)
 
 for player, move, phse in zip(players, moves, phase):
-    print>>test, player, ': ', phse, ' MOVE: ', move, '\n '
+    line = ("" + player + ": " + phse + " MOVE: " + move + '\n ')
+    test.write(line)
 
+player = [players[0], players[1], players[2]]
+win = [0, 0, 0]
+
+
+for x in range(0, 3):
+    if (players[x] + ' wins this game of thrones!') == moves[len(moves)-1]:
+        win[x] = 1
+
+print (win, player)
