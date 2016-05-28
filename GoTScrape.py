@@ -31,16 +31,28 @@ phase = []
 #Find all phases, used a different syntax due to multiple valigns and multiple small tags
 phase = tree.xpath('//th[@valign = "top"]/small/text()')
 
+settings = []
+i = 0
+setting_set = []
+
+sett = soup.find(style = "padding-left:35px")
+for stt in sett.find_all('td'):
+    if i%2 == 0:
+        settings.append(stt.get_text())
+        i+=1
+    else:
+        setting_set.append(stt.get_text())
+        i+=1
 
 print ('done scraping')
 
-w = "This is the left side of..."
-e = "a string with a right side."
+settings_table = soup.find('td', valign = 'top', style = 'padding-left:35px')
 
-print (w + e)
+for stt, stting in zip(settings, setting_set):
+    test.write(stt + ' ' + stting + '\n')
 
 for player, move, phse in zip(players, moves, phase):
-    line = ("" + player + ": " + phse + " MOVE: " + move + '\n ')
+    line = ("" + player + ": " + phse + " MOVE: " + move  + '\n ')
     test.write(line)
 
 player = [players[0], players[1], players[2]]
